@@ -5,7 +5,7 @@ This is an ideal script to build on and make a custom port scanner.
 
 usage: python pscan.py 127.0.0.1
 
-![alt text](http://imgur.com/a/KQQEzXg)
+![alt text](https://imgur.com/a/KQQEzXg)
 
 Credit:unknown
 
