@@ -7,7 +7,7 @@ This is an ideal script to build on and make a custom port scanner.
 
 ![Screenshot](psca.png)
 
-Credit:unknown
+Credit:  https://www.geeksforgeeks.org/port-scanner-using-python/
 
 thego0n@mal7
 
