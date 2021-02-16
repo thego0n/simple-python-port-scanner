@@ -9,3 +9,6 @@ This is an ideal script to build on and make a custom port scanner.
 
 thego0n@mal7
 
+
+PROPS to deepamanknp
+https://www.geeksforgeeks.org/port-scanner-using-python/
